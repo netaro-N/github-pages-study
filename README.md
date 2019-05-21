@@ -1,2 +1,2 @@
 # github pages
-はじめてのgithub pages
+初めてのgithub pages
